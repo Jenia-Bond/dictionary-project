@@ -10,7 +10,7 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by Eugenia Bondarenko</small>
+          <small>Coded by Eugenia Bondarenko hosted on Netlify</small>
         </footer>
       </div>
     </div>
