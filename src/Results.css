@@ -1,10 +1,14 @@
 .Results {
   margin: 40px;
 }
+.Results h2 {
+  font-size: 36px;
+  font-weight: bold;
+}
 .searched-word {
   background-color: white;
   border-radius: 10px;
-  box-shadow: 14px 10px 21px -10px rgba(182, 182, 182, 1);
-  padding: 10px;
+  box-shadow: 8px 9px 12px -9px rgba(66, 68, 90, 1);
+  padding: 30px;
   margin-top: 20px;
 }

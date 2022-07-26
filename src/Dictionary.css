@@ -1,6 +1,18 @@
 .Dictionary {
   text-align: center;
-  margin-top: 30px;
+  margin: 40px;
+}
+.Dictionary form {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 8px 9px 12px -9px rgba(66, 68, 90, 1);
+  padding: 30px;
+  margin-top: 20px;
+}
+.Dictionary .hint {
+  text-align: left;
+  font-size: 11px;
+  margin-top: 5px;
 }
 .Dictionary-header {
   font-family: "Edu QLD Beginner", cursive;
@@ -14,7 +26,7 @@
   color: rgb(59, 59, 59);
 }
 .Dictionary input {
-  width: 50%;
+  width: 100%;
   padding: 5px;
   border-radius: 8px;
   border: 1px solid #cfcfcf;
