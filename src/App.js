@@ -10,7 +10,13 @@ export default function App() {
           <Dictionary defaultKeyword="peace" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Eugenia Bondarenko hosted on Netlify</small>
+          <small>
+            This project was coded by Eugenia Bondarenko and is{" "}
+            <a href="https://github.com/Jenia-Bond/dictionary-project">
+              open-sourced on GitHub
+            </a>{" "}
+            and hosted on Netlify
+          </small>
         </footer>
       </div>
     </div>
