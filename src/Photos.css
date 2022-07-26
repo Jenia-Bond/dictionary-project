@@ -1,12 +1,10 @@
-.Meaning {
+.Photos {
   background-color: white;
   border-radius: 10px;
   box-shadow: 8px 9px 12px -9px rgba(66, 68, 90, 1);
   padding: 30px;
-  margin-top: 20px;
+  margin: 20px 40px;
 }
-.Meaning .example {
-  font-style: italic;
-  margin-top: 6px;
-  opacity: 0.8;
+.Photos img {
+  border-radius: 10px;
 }

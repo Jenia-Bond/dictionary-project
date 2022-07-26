@@ -7,7 +7,7 @@ export default function App() {
       <div className="container">
         <header className="App-header"></header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="peace" />
         </main>
         <footer className="App-footer">
           <small>Coded by Eugenia Bondarenko hosted on Netlify</small>
